@@ -434,7 +434,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 03ffd135f81a3fb4cb6f2e6e944f979d, type: 3}
       propertyPath: m_Name
-      value: PLAYER
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 03ffd135f81a3fb4cb6f2e6e944f979d, type: 3}
       propertyPath: m_RootOrder
@@ -673,4 +673,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 344ea9276a9752e428e2604a06a36052, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  obstaclePrefab: {fileID: 7405608457426151983, guid: d6d092fbd3038334bb00f362468026d1, type: 3}
+  obstaclePrefab: {fileID: 5577098649407281851, guid: d6d092fbd3038334bb00f362468026d1, type: 3}
